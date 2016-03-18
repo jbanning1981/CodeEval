@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeToEat", "TimeToEat\Time
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrickOrTreat", "TrickOrTreat\TrickOrTreat\TrickOrTreat.csproj", "{C046144D-1D84-45E7-9811-D28E2351699C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Simple_Or_Trump", "Simple_Or_Trump\Simple_Or_Trump.csproj", "{19EDECEC-7B02-4A58-B5FF-55A00749E1F6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -71,6 +73,10 @@ Global
 		{C046144D-1D84-45E7-9811-D28E2351699C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C046144D-1D84-45E7-9811-D28E2351699C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C046144D-1D84-45E7-9811-D28E2351699C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19EDECEC-7B02-4A58-B5FF-55A00749E1F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19EDECEC-7B02-4A58-B5FF-55A00749E1F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19EDECEC-7B02-4A58-B5FF-55A00749E1F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19EDECEC-7B02-4A58-B5FF-55A00749E1F6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -86,5 +92,6 @@ Global
 		{CDDCBC3D-0460-465A-81C6-8CA9971658EE} = {5B675293-1C90-4BA3-85BA-DDB9AC3ADB52}
 		{D0CBD2C7-4A4E-4205-883C-2E09E58EE1E0} = {5B675293-1C90-4BA3-85BA-DDB9AC3ADB52}
 		{C046144D-1D84-45E7-9811-D28E2351699C} = {5B675293-1C90-4BA3-85BA-DDB9AC3ADB52}
+		{19EDECEC-7B02-4A58-B5FF-55A00749E1F6} = {5B675293-1C90-4BA3-85BA-DDB9AC3ADB52}
 	EndGlobalSection
 EndGlobal
