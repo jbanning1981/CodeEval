@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>44df42a9-d53f-4a1f-969a-5e3cb12ba2c9</ProjectGuid>
+    <ProjectGuid>{D1FA17FE-E29D-4819-8842-7B605CF32BF9}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>Simple_Or_Trump</RootNamespace>
