@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Panacea", "Panacea\Panacea.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Simple_Or_Trump", "Simple_Or_Trump\Simple_Or_Trump.csproj", "{D1FA17FE-E29D-4819-8842-7B605CF32BF9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multiplication_Tables", "Multiplication_Tables\Multiplication_Tables.csproj", "{DC5EAB86-56FB-4BEE-AE90-412B495FD6FB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -83,6 +85,10 @@ Global
 		{D1FA17FE-E29D-4819-8842-7B605CF32BF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D1FA17FE-E29D-4819-8842-7B605CF32BF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D1FA17FE-E29D-4819-8842-7B605CF32BF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC5EAB86-56FB-4BEE-AE90-412B495FD6FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC5EAB86-56FB-4BEE-AE90-412B495FD6FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC5EAB86-56FB-4BEE-AE90-412B495FD6FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC5EAB86-56FB-4BEE-AE90-412B495FD6FB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -100,5 +106,6 @@ Global
 		{C046144D-1D84-45E7-9811-D28E2351699C} = {5B675293-1C90-4BA3-85BA-DDB9AC3ADB52}
 		{ECAE5C8A-6B18-467B-9E54-FB3816400E9A} = {5B675293-1C90-4BA3-85BA-DDB9AC3ADB52}
 		{D1FA17FE-E29D-4819-8842-7B605CF32BF9} = {5B675293-1C90-4BA3-85BA-DDB9AC3ADB52}
+		{DC5EAB86-56FB-4BEE-AE90-412B495FD6FB} = {5B675293-1C90-4BA3-85BA-DDB9AC3ADB52}
 	EndGlobalSection
 EndGlobal
